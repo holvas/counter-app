@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "**Який досвід здобув?**\r 1. Що таке стан (state)\r 2. Хук useState\r 3. Як при натисканні на кнопку викликати функцію",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
